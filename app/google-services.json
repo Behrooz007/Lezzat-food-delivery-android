@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "322457311073",
+    "firebase_url": "https://darkconnect-default-rtdb.firebaseio.com",
+    "project_id": "darkconnect",
+    "storage_bucket": "darkconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322457311073:android:0154aed483059e99fe1720",
+        "android_client_info": {
+          "package_name": "com.example.chat3b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322457311073-egdb17vmlc4pcmhvrq9lbum93r52kaa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZsVqlejnJ_bGfRkwQ6bFmj1MY2eMStM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322457311073-egdb17vmlc4pcmhvrq9lbum93r52kaa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322457311073:android:0fa8f1651896bdf6fe1720",
+        "android_client_info": {
+          "package_name": "com.example.lezzat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322457311073-egdb17vmlc4pcmhvrq9lbum93r52kaa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZsVqlejnJ_bGfRkwQ6bFmj1MY2eMStM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322457311073-egdb17vmlc4pcmhvrq9lbum93r52kaa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
